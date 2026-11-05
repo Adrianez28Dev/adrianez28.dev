@@ -77,21 +77,6 @@ Uncomment this section and replace TU_REPO with your repository names.
 </div>
 -->
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Adrianez28Dev&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="GitHub stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrianez28Dev&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" height="170" />
-
-<br />
-
-<img src="https://streak-stats.demolab.com?user=Adrianez28Dev&theme=github-dark-blue&hide_border=true" alt="Contribution streak" />
-
-</div>
-
-<br />
-
 ## 📫 Contact
 
 <div align="center">
